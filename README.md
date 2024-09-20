@@ -42,7 +42,7 @@
 
 <h3 align="center"><b>🎖️ stats 🎖️</b></h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boseoPark&show_icons=true&theme=omni" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wnsdud12&show_icons=true&theme=omni" alt="Anurag's GitHub stats" />
 </div><br><br>
 
 <h3 align="center"><b>💌 Contact 💌</b></h3>
