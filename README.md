@@ -12,7 +12,7 @@
 
 <h3 align="center"><b>💌 Tech Stack 💌 </b></h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=swift&logoColor=#F05138"/> 
+  <img src="https://img.shields.io/badge/swift 5.4-white.svg?style=flat-square&logo=Swift"/> 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
